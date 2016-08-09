@@ -1,5 +1,7 @@
 *.class
 .classpath
 .project
-eclipse-java-google-style.xml
-/bin/
+*.xml
+*.iml
+bin/
+.idea/
